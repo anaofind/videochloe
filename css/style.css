@@ -1,0 +1,79 @@
+html{
+
+    background-color:turquoise;
+    
+}
+
+h1{
+    width: 70% ; 
+    position: relative;
+    left: 15%;
+    background-color: burlywood;
+    text-align: center ; 
+    border-style: solid ; 
+
+}
+
+h2{
+    width: 70%; 
+    position: relative;
+    left: 15%;
+    background-color: chocolate;
+    text-align: center ; 
+    border-style: solid ;
+    border-radius: 50px ; 
+
+
+}
+
+h3{
+	margin: 0px;
+    width: 40%;
+    position: relative;
+    left : 30%;
+    background-color: #b7dc6d;
+    text-align: center ; 
+    border-style: solid ;
+    border-radius: 100px ; 
+
+
+}
+
+.video p{
+  font-size: 1.5em;
+}
+
+
+body{
+   width: 70% ; 
+   position: relative;
+   left: 15%;
+   background-color: bisque;
+   text-align: center;
+   border-style: solid ; 
+   border-radius: 15px ; 
+}
+
+img{
+
+    width: 30%;
+
+}
+
+
+button{
+
+    background-color:gainsboro;
+
+}
+
+footer{
+
+    width: 100% ; 
+    position: relative ;
+    bottom: 0px ;
+    text-align: center; 
+    background-color: cornflowerblue;
+    color:bisque ; 
+
+}
